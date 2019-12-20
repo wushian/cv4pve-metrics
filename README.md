@@ -15,6 +15,8 @@ Dashboards for Grafana:
 
 For more dashboards or metrics in cloud visit https://www.cv4pve-tools.com and see plans support.
 
+https://www.corsinvest.it/open-source/?lang=en
+
 ```text
     ______                _                      __
    / ____/___  __________(_)___ _   _____  _____/ /_
